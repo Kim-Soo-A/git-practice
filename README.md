@@ -1,2 +1,2 @@
-git-practice
-Open Source Software Lab 7
+Git-practice.
+Open Source Software Lab
